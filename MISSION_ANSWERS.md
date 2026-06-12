@@ -39,8 +39,8 @@
 ## Part 3: Cloud Deployment
 
 ### Exercise 3.1: Deployment
-- **URL:** [ĐIỀN LINK CỦA BẠN]
-- **Screenshot:** [Link to screenshot in repo]
+- **URL:** https://exercise31-production.up.railway.app/
+- **Screenshot:** ![Railway Deploy](./images/bai_tap3.1.png)
 
 ## Part 4: API Security
 
